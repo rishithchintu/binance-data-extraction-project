@@ -3,7 +3,7 @@
 ♦️I have extracted the ETHBTC cryptocurrency data of last 120 days.
 After extracting the data I have visualized the data.
 
-Libraries used: 
+♦️Libraries used: 
 
 
 
