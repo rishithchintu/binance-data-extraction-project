@@ -1,10 +1,10 @@
 # binance-data-extraction-project
 
-I have extracted the ETHBTC cryptocurrency data of last 120 days.
+♦️I have extracted the ETHBTC cryptocurrency data of last 120 days.
 After extracting the data I have visualized the data.
 
 Libraries used: 
-python-binance
-plfinance
+👉python-binance
+👉plfinance
 
 ![plot](https://github.com/rishithchintu/binance-data-extraction-project/assets/75387341/8a0c815a-3124-44e0-95d5-9a7ba6c25359)
